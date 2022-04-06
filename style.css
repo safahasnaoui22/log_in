@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+   
+    background-color: rgb(250, 237, 237);
+    
+  
+}
+.login_box{
+  
+    
+    height:400px;
+    width:450px;
+    background: blanchedalmond;
+   right: 20px;
+   left: 80px;
+ position: absolute;
+   margin-left: 800px;
+   border-radius: 25% 25% ;
+   margin-left: auto;
+margin-right: auto;
+border-style: groove;
+
+ 
+}
+#ka{
+    color: #585151;
+    padding: 70px 30px;
+    margin: 0;
+    text-align: center;
+    font-size: 22px;
+}
+#tittle:hover{
+    color: brown;
+
+}
+#login{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #585151;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 25px 20px 0px  ;
+}
+#login:hover{
+    cursor: pointer;
+    background: blanchedalmond;
+    color: black;
+}
+#pass
+{
+    border: none;
+    box-shadow: 2px;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
